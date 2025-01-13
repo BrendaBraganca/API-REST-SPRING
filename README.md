@@ -24,7 +24,7 @@
 <h3>Pré-requisitos:</h3>
 
 - Uma IDE habilitada para compilar código Java.
-- Um banco de daddos local (no projeto foi utilizado o Postgres).
+- Um banco de dados local (no projeto foi utilizado o Postgres).
 - Um software de capaz de fazer as requisições http.
 
 <h3>Clonando</h3>
@@ -53,8 +53,6 @@ spring.datasource.password=your-password
 
 
 <h2 id="routes">📍 API Endpoints</h2>
-
-Here you can list the main routes of your API, and what are their expected request bodies.
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
