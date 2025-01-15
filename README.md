@@ -64,6 +64,6 @@ spring.datasource.password=your-password
 
 <h3>Banco de Dados</h3>
 
-O banco de dados utilizazado foi o Postgres e a interface utilizada para melhor acompanhar os comando utilizados na aplicaçao foi o Postico.
+O banco de dados utilizado foi o Postgres e a interface utilizada para melhor acompanhar os comando utilizados na aplicaçao foi o Postico.
 -  <a href="https://www.youtube.com/watch?v=PShGF_udSpk&t=420s&pp=ygUdaG93IHRvIGluc3RhbGwgcG9zdGdyZXNxbCBtYWM%3D">How to Install PostgreSQL</a>
 -  <a href="https://www.youtube.com/watch?v=7ROh8Mel6Cs&t=181s&pp=ygUaaG93IHRvIGluc3RhbGwgcG9zdGljbyBtYWM%3D">How to Install Postico</a>
