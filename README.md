@@ -12,7 +12,7 @@
 
 <p>
  <a href="#started">Instruções de Instalação</a> • 
-  <a href="#routes">API Endpoints</a> 
+  <a href="#routes">API Endpoints </a> 
 </p>
 
 <p>
